@@ -18,3 +18,4 @@ This course will cover the following topics:
 - [ًWeathering and Soil (1)](Slides/lecture_2.html)
 - [ًWeathering and Soil (2)](Slides/lecture_3.html)
 - [ًClimate Change](Slides/lecture_4.html)
+- [ًSediments and Sedimentary Rocks](Slides/lecture_5.html)
