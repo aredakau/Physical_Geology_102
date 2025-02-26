@@ -21,3 +21,4 @@ This course will cover the following topics:
 - [ًSediments and Sedimentary Rocks](Slides/lecture_5.html)
 - [Sedimentary Structures and Waterway Sediments](Slides/lecture_6.html)
 - [Geological Structures](Slides/lecture_7.html)
+- [Mass Wasting](Slides/lecture_8.html)
