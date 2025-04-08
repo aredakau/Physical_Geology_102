@@ -24,3 +24,4 @@ This course will cover the following topics:
 - [Mass Wasting](Slides/lecture_8.html)
 - [Glaciation](Slides/lecture_9.html)
 - [Aeolian processes](Slides/lecture_10.html)
+- [Shorelines: Processes, Features, and Formations](Slides/lecture_11.html)
