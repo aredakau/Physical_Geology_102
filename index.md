@@ -25,3 +25,4 @@ This course will cover the following topics:
 - [Glaciation](Slides/lecture_9.html)
 - [Aeolian processes](Slides/lecture_10.html)
 - [Shorelines: Processes, Features, and Formations](Slides/lecture_11.html)
+- [Geology of the Oceans](Slides/lecture_12.html)
