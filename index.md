@@ -29,3 +29,4 @@ This course will cover the following topics:
 - [Groundwater](Slides/lecture_13.html)
 - [Stream and Floods](Slides/lecture_14.html)
 - [Measuring Geological Time](Slides/lecture_15.html)
+- [Geological Resources](Slides/lecture_16.html)
